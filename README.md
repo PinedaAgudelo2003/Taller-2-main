@@ -112,8 +112,7 @@ npm run dev
 
 ---
 
-## 👾 Autor
-
+## 👾 Auto
 Proyecto desarrollado por Brahian Pineda 💻🔥
 
 
