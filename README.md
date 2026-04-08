@@ -114,8 +114,8 @@ npm run dev
 
 ## 👾 Autor
 
-Proyecto desarrollado por un futuro crack del desarrollo 💻🔥
-Con enfoque en rendimiento, diseño y organización.
+Proyecto desarrollado por Brahian Pineda 💻🔥
+
 
 ---
 
