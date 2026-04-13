@@ -47,18 +47,18 @@ TALLER2-MAIN/
 │   │   └── inicio.jsx
 │   │
 │   ├── styles/              # Estilos globales
-│   │   ├── global.css
-│   │   └── App.css
+│   │   ├── App.css
+│   │   └── global.css
+│   │   └── index.css
 │   │
 │   ├── App.jsx              # Componente principal
-│   ├── index.css            # Estilos base
 │   └── main.jsx             # Punto de entrada
 │
 ├── .gitignore
 ├── eslint.config.js
 ├── index.html
-├── package.json
 ├── package-lock.json
+├── package.json
 ├── README.md
 └── vite.config.js
 ```
